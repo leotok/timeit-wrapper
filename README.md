@@ -17,7 +17,7 @@ Directory tree: <br>
 
 ```
 loops:  10000
-folder:  /Users/LeoWajnsztok/Documents/python/unique_string
+folder:  ../unique_character_string
 
 array_sorting_algorithm.py
 time:  0.314327001572 secs
