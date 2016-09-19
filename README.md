@@ -16,12 +16,15 @@ Directory tree: <br>
 `$ python timer.py 10000`
 
 ```
-array_sorting_algorithm.py loops:  10000
-0.303525924683
+loops:  10000
+folder:  ../unique_character_string
 
-bitmap_algorithm.py loops:  10000
-0.491348981857
+array_sorting_algorithm.py
+time:  0.314327001572 secs
 
-set_algorithm.py loops:  10000
-0.127987146378
+bitmap_algorithm.py
+time:  0.498764038086 secs
+
+set_algorithm.py
+time:  0.129238128662 secs
 ```
